@@ -9,14 +9,13 @@ Hoje atuo no Hospital de Clínicas UNICAMP, porém na área de suporte de TI e e
 Tecnologias que estou estudando e que utilizo em meus projetos no momento:
 
 <div style="background-color:white;">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/django.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  ![icons8-linux](https://user-images.githubusercontent.com/79375451/184197152-f3528aa1-dc44-4a02-b482-04dca2e983ce.gif)
-
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/django.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
 </div>  
 
+![icons8-linux](https://user-images.githubusercontent.com/79375451/184197152-f3528aa1-dc44-4a02-b482-04dca2e983ce.gif)
 ##
 Contatos
 
