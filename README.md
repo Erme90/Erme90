@@ -10,6 +10,8 @@ Tecnologias que estou estudando e que utilizo em meus projetos no momento:
 
 <div style="background-color:white;">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 </div>  
 
 ##
