@@ -9,7 +9,7 @@ Hoje atuo no Hospital de Clínicas UNICAMP, porém na área de suporte de TI e e
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height: 80px; widith: 80px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 80px; widith: 80px;"/>
-<i class="devicon-django-plain" style="fontsize:80px"></i>          
+<i class="devicon-django-plain" style="fontsize:80px">DJANGO</i>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 80px; widith: 80px;"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 80px; widith: 80px;" />
           
