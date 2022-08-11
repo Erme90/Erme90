@@ -9,7 +9,7 @@ Hoje atuo no Hospital de Clínicas UNICAMP, porém na área de suporte de TI e e
 Tecnologias que estou estudando e que utilizo em meus projetos no momento:
 
 <div style="background-color:white;">
-<a href="https://www.flaticon.com/br/icones-gratis/arquivo-python" title="arquivo python ícones">Arquivo python ícones criados por Flat Icons - Flaticon</a>
+<a href="https://www.flaticon.com/br/icones-gratis/arquivo-python" title="arquivo python ícones"></a>
 </div>  
 
 ##
