@@ -9,7 +9,7 @@ Hoje atuo no Hospital de Clínicas UNICAMP, porém na área de suporte de TI e e
 Tecnologias que estou estudando e que utilizo em meus projetos no momento:
 
 <div style="background-color:white;">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </div>  
 
 ##
