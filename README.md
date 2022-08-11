@@ -5,6 +5,13 @@ Sou formado em Análise e Desenvolvimento de sistemas, apaixonado por programaç
 Atualmente estudo a linguagem Python e um de seus frameworks: O Django.
 
 Hoje atuo no Hospital de Clínicas UNICAMP, porém na área de suporte de TI e estou em migração de carreira para desenvolvedor backend. 
+<header>
+    
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+</header>
+
+
 <body>
     
             <i class="devicon-django-plain"></i>
