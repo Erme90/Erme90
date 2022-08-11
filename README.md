@@ -10,7 +10,7 @@ Tecnologias que estou estudando e que utilizo em meus projetos no momento:
 
 <div>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" style="width:80px; height:80px;"/>
-<img src="https://img.icons8.com/ios/50/FFFFFF/django.png" style="width:80px; height:80px;"/>
+<img src="https://img.icons8.com/ios/80/FFFFFF/django.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="width:80px; height:80px;"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" style="width:80px; height:80px;"/>
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png" style="width:80px; height:80px;"/>
