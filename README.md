@@ -19,6 +19,8 @@ Tecnologias que estou estudando e que utilizo em meus projetos no momento:
 <div>
 <a href="https://github.com/Erme90">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erme90&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erme90&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
