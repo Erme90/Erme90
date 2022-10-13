@@ -6,17 +6,19 @@ Atualmente estudo a linguagem Python e um de seus frameworks: O Django.
 
 Hoje atuo no Hospital de Clínicas UNICAMP, porém na área de suporte de TI e estou em migração de carreira para desenvolvedor backend. 
 ##
-Tecnologias que estou estudando e que utilizo em meus projetos no momento:
+Tecnologias que estou que utilizo em meus projetos no momento:
 
 <div>
 <img src="https://img.icons8.com/color/80/000000/python--v1.png"/>
-<img src="https://img.icons8.com/color/80/000000/java--v1.png"/>
 <img src="https://img.icons8.com/ios/80/FFFFFF/django.png"/>
 <img src="https://img.icons8.com/color/80/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/80/000000/css3.png"/>
-<img src="https://img.icons8.com/color/80/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/80/000000/linux--v1.png"/>
-<img src="https://img.icons8.com/color/80/000000/bootstrap--v1.png"/>
+<img src="https://img.icons8.com/color/80/000000/bootstrap--v1.png"/>  
+
+Tecnologias que estou que estou estudando no momento:
+<img src="https://img.icons8.com/color/80/000000/java--v1.png"/>
+<img src="https://img.icons8.com/color/80/000000/javascript.png"/>
 
 </div>  
 
