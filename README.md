@@ -15,7 +15,8 @@ Tecnologias que estou que utilizo em meus projetos no momento:
 <img src="https://img.icons8.com/color/80/000000/css3.png"/>
 <img src="https://img.icons8.com/color/80/000000/linux--v1.png"/>
 <img src="https://img.icons8.com/color/80/000000/bootstrap--v1.png"/>  
-
+</div>
+<div>
 Tecnologias que estou que estou estudando no momento:
 <img src="https://img.icons8.com/color/80/000000/java--v1.png"/>
 <img src="https://img.icons8.com/color/80/000000/javascript.png"/>
