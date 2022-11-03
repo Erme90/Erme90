@@ -21,6 +21,7 @@ Tecnologias que estou que utilizo em meus projetos no momento:
 Tecnologias que estou estudando no momento:<br>
 <img src="https://img.icons8.com/color/80/000000/java--v1.png"/>
 <img src="https://img.icons8.com/color/80/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/80/000000/nodejs.png"/>
 
 </div>  
 
