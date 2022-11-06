@@ -3,8 +3,7 @@ Aqui você pode conferir meus projetos desenvolvidos e caso queira entrar em con
 
 Sou formado em Análise e Desenvolvimento de sistemas, apaixonado por programação e por construir soluções tecnológicas. 
 Atualmente estudo a linguagem Python e um de seus frameworks: O Django.
-
-Hoje atuo no Hospital de Clínicas UNICAMP, porém na área de suporte de TI e estou em migração de carreira para desenvolvedor backend. 
+ 
 ##
 Tecnologias que estou que utilizo em meus projetos no momento:
 
