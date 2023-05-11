@@ -18,7 +18,7 @@ Tecnologias que estou que utilizo em meus projetos no momento:
 <br>
 <div>
 Tecnologias que estou estudando no momento:<br>
-<img src="[https://img.icons8.com/color/80/000000/java.png](https://icons8.com/icon/13679/java)"/>
+<img src="https://img.icons8.com/color/80/000000/java.png"/>
 <img src="https://img.icons8.com/color/80/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/80/000000/nodejs.png"/>
    <img src="https://img.icons8.com/color/80/000000/php.png"/>
