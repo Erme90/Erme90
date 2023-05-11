@@ -18,7 +18,7 @@ Tecnologias que estou que utilizo em meus projetos no momento:
 <br>
 <div>
 Tecnologias que estou estudando no momento:<br>
-<img src=![image](https://github.com/Erme90/Erme90/assets/79375451/45d50ae0-2c0e-42c8-b54c-0a0b99aac4e5)
+<img src="https://github.com/Erme90/Erme90/assets/79375451/45d50ae0-2c0e-42c8-b54c-0a0b99aac4e5"
 />
 <img src="https://img.icons8.com/color/80/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/80/000000/nodejs.png"/>
